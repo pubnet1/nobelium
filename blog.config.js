@@ -1,8 +1,8 @@
 const BLOG = {
-  title: 'XIAODONG',
-  author: 'wangxiaodong',
-  email: 'lle@live.com',
-  link: 'https://wangxiaodong.dev',
+  title: '咕咚来了',
+  author: 'gudong',
+  email: 'pubnet@163.com',
+  link: 'https://gudonglaile.com',
   description: 'Record myself.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -17,7 +17,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://v2ex.com/member/Guidoo',
+  socialLink: 'https://v2ex.com',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
